@@ -1,0 +1,46 @@
+.swiper {
+    height: 100vh;
+  }
+  .swiper-slide img {
+    height: 60vh;
+    margin-bottom: 40px;
+  }
+  
+  .swiper-slide {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .bg1{
+    background-image: url(../assets/ironman.jpg);
+    background-position: center;
+    background-size: cover;    
+  }
+  .bg2{
+    background-image: url(../assets/captain.jpg);
+    background-position: center;
+    background-size: cover;    
+  }
+  .bg3{
+    background-image: url(../assets/hulk.jpg);
+    background-position: center;
+    background-size: cover;    
+  }
+  .bg4{
+    background-image: url(../assets/loki.png);
+    background-position: center;
+    background-size: cover;    
+  }
+  .bg5{
+    background-image: url(../assets/natasha.jpg);
+    background-position: center;
+    background-size: cover;    
+  }
+  .bg6{
+    background-image: url(../assets/thor.jpg);
+    background-position: center;
+    background-size: cover;    
+  }

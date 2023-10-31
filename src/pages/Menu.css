@@ -1,0 +1,23 @@
+
+
+.page{
+  height: 100vh; /* Set a fixed height for the card */
+  overflow: auto;
+}
+.header{
+  position: sticky;
+}
+.card{
+  border: 1px white solid;
+  border-radius: 10px;
+}
+.button{
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+img{
+  width: 100%;
+}
+.content{
+  margin-top: 20%;
+}
